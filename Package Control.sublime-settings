@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"BracketHighlighter",
+		"CSS Format",
+		"Emmet",
+		"FileIcons",
+		"GitGutter",
+		"JsPrettier",
+		"Package Control",
+		"SublimeLinter",
+		"SublimeLinter-eslint"
+	]
+}
